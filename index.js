@@ -1,4 +1,4 @@
-const first = () =>{
+const wish = () =>{
     console.log("Hello Node.js!");
 };
-first();
+wish();
